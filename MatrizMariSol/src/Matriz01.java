@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  */
 public class Matriz01 extends javax.swing.JFrame {
 
-    String[][] tabela = new String[10][4];
+    String[][] tabela = new String[10][3];
     int i = 0, j = 0;
 
     public Matriz01() {
